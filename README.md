@@ -38,5 +38,6 @@ Builds the dataset for analysis from the separate files. These underlying files 
 ## Contact Details
 
 (a) Corresponding Author: Professor Alasdair Rutherford  
-Faculty of Social Sciences, Colin Bell Building, University of Stirling, Stirling, FK9 4LA
-e: alasdair.rutherford@stir.ac.uk w: https://www.stir.ac.uk/people/255778
+Faculty of Social Sciences, Colin Bell Building, University of Stirling, Stirling, FK9 4LA  
+e: alasdair.rutherford@stir.ac.uk w: https://www.stir.ac.uk/people/255778  
+
