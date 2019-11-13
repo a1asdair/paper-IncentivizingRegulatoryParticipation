@@ -1,6 +1,6 @@
 # Incentivizing Regulatory Participation: Effectiveness of a Fundraising Levy
  
-Professor ALasdair C. Rutherford (University of Stirling)  
+Professor Alasdair C. Rutherford (University of Stirling) (a)  
 Dr Diarmuid McDonnell (University of Birmingham)  
 Dr Eddy Hogg (University of Kent)  
 
@@ -34,3 +34,9 @@ Descriptive graph of the Levy pay bands, and the percentage of fundraising expen
 * merge-dr-data-11Sept17.do
 
 Builds the dataset for analysis from the separate files. These underlying files are not currently included in the repo.
+
+## Contact Details
+
+(a) Corresponding Author: Professor Alasdair Rutherford  
+Faculty of Social Sciences, Colin Bell Building, University of Stirling, Stirling, FK9 4LA
+e: alasdair.rutherford@stir.ac.uk w: https://www.stir.ac.uk/people/255778
