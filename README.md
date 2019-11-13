@@ -1,6 +1,6 @@
 # Incentivizing Regulatory Participation: Effectiveness of a Fundraising Levy
  
-Professor Alasdair C. Rutherford (University of Stirling) (a)  
+Professor Alasdair C. Rutherford (University of Stirling) *(a)*  
 Dr Diarmuid McDonnell (University of Birmingham)  
 Dr Eddy Hogg (University of Kent)  
 
